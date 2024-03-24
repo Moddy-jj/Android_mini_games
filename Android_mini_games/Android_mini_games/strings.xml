@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">20023030S_project</string>
+    <string name="Tips">Tips:get double score if the partscore equal to gemscore</string>
+    <string name="button1">end</string>
+    <string name="button2">restart</string>
+    <string name="Score1">-200</string>
+    <string name="Score2">-100</string>
+    <string name="Score3">100</string>
+    <string name="Score4">200</string>
+    <string name="Score5">300</string>
+    <string name="Score6">400</string>
+    <string name="Score7">500</string>
+    <string name="Score8">600</string>
+    <string name="Score9">1000</string>
+</resources>
